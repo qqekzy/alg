@@ -1,0 +1,23 @@
+integer_var = 5     # ЗАДАНИЕ 1
+float_var = 0.5
+string_var = "string"
+list_var = [0, 2, 7]
+tuple_var = ("red" , "blue", "green")
+dict_var ={"finik": "sladkii", "fish": "nekaif"}
+set_var = {1, 2, 3, 4}
+bool_var = False
+
+name = "Андрей"    # ЗАДАНИЕ 2
+age = 18
+average_grade = 4.25
+favorite_movies = ["Быстрее пули", "Во все тяжкие", "Призрачный гонщик"]
+personal_info = ("Самоходкин", 25, 4.25)
+skills = {"лежать": "10", "спать": "100"}
+visited_countries = ("Египет", "Турция")
+has_driver_license = False
+
+
+brain = "Ryzen"     # ЗАДАНИЕ 3
+opmemory = 16
+speed_internet = 300
+vse = [brain, opmemory , speed_internet]

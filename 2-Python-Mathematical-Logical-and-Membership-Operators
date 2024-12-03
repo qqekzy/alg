@@ -1,0 +1,40 @@
+a = 5    #Задание 1
+b = 10
+a = b
+b = 20
+print(a,b)
+
+x = 7   #Задание 2
+y = 3
+z = 0
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)
+print(x**y)
+z = x**2 - (x*b)
+print(z)
+
+m = 8   #Задание 3
+n = 4
+m = m+n
+n = m*2
+m = n/m
+n = n - m
+print(m,n)
+
+a = 12  #Задание 5 4
+b = 8
+c = 12
+print(a>b)
+print(b<a)
+print(a == c)
+print(b!=c)
+print(a>=c)
+print(b<=a)
+
+backpack = ['ручка', 'тетрадь', 'учебник', 'карандаш', 'фломастеры', 'линейка', 'ластик']  #Задание 5
+print('карандаш' in backpack)
+print('яблока' in backpack)
+print(len(backpack))
